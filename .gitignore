@@ -1,0 +1,8 @@
+*.o
+*.exe
+egg
+egg.t
+libeggx.a
+_xslave_
+mkexheader
+exec_xslave.h
